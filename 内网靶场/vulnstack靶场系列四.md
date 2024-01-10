@@ -408,9 +408,9 @@ plugin = socks5
 
 修改kali的`/etc/proxychain4.conf`文件
 
-<img src="vulnstack靶场系列四/image-20231211165426183.png" alt="image-20231211165426183" style="zoom:67%;" />	
+<img src="vulnstack靶场系列四/image-20231211165426183.png" alt="image-20231211165426183" style="zoom:67%;" />
 
-
+​	
 
 ## 内网信息收集
 
@@ -528,9 +528,9 @@ creds_all  #列举内存凭据
 goldenPac.exe demo.com/douser:Dotest123@WIN-ENS2VR5TR3N.demo.com
 ```
 
-<img src="vulnstack靶场系列四/image-20231212125534615.png" alt="image-20231212125534615" style="zoom:80%;" />	
+<img src="vulnstack靶场系列四/image-20231212125534615.png" alt="image-20231212125534615" style="zoom:80%;" />
 
-
+​	
 
 在域控创建一个拥有管理员权限的用户`hacker`，其密码是`Password123`
 

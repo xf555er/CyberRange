@@ -444,9 +444,9 @@ exp运行后成功返回当前Web主机的meterpreter会话
 proxychains4 python3 zerologon_tester.py [域控主机名] [域控ip]
 ```
 
-![image-20230527235651822](vulnstack靶场系列二/image-20230527235651822.png)	
+![image-20230527235651822](vulnstack靶场系列二/image-20230527235651822.png)
 
-
+​	
 
 使用`cve-2020-1472-exploit`将域控制器账户的密码设置为空
 

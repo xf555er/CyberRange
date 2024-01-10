@@ -233,9 +233,9 @@ webshell的网页路径为:`http://www.henry404.net:81/protected/apps/default/vi
 
 > 内建用户: 系统刚安装完成时所创建的用户, 并非当前登录用户
 
-![image-20221015211229109](vulnstack靶场系列一/image-20221015211229109.png)	
+![image-20221015211229109](vulnstack靶场系列一/image-20221015211229109.png)
 
-<br>	
+​		
 
 **4.查询本地管理员组的用户: `shell net localgroup administrators`**
 
@@ -508,7 +508,7 @@ shell net start "name"
 删除服务
 
 ```
-shell SC delete "name
+shell SC delete "name"
 ```
 
 <br>
